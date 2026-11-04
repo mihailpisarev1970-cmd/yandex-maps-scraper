@@ -1,0 +1,56 @@
+# ===== СЕКРЕТЫ (никогда не коммитим) =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ===== Результаты парсинга =====
+*.xlsx
+*.xls
+*.csv
+results/
+yandex_maps_results.xlsx
+
+# ===== Логи и скриншоты ошибок =====
+*.log
+logs/
+error_trace.png
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== Виртуальные окружения =====
+venv/
+.venv/
+env/
+ENV/
+
+# ===== Playwright / браузеры =====
+.playwright/
+playwright-report/
+test-results/
+
+# ===== IDE / OS =====
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ===== Прочее =====
+*.tmp
+*.bak
+
+# ===== Рабочие черновики =====
+Promts_py.docx
