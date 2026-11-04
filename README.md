@@ -1,9 +1,12 @@
 <!--
-  GitHub Topics (для поля About → Topics):
-  yandex-maps-scraper, yandex-maps-parser, парсер-яндекс-карт, парсинг-яндекс-карт,
-  парсер-организаций, сбор-контактов, сбор-базы-организаций, лидогенерация,
-  b2b-контакты, phone-scraper, playwright-scraper, python-scraper,
-  web-scraping, business-data-extraction, csv-export, excel-export
+  GitHub Topics (About → Topics, до 20 шт., только латиница в lowercase) — уже установлены:
+  yandex-maps-scraper, yandex-maps-parser, yandex-maps, parser, scraper, python, playwright,
+  web-scraping, data-extraction, business-data, lead-generation, b2b-leads, phone-scraper,
+  company-data, local-business, excel-export, openpyxl, proxy-support, captcha-handling, market-research
+
+  SEO-ключи, под которые оптимизирован README:
+  парсер яндекс карт, yandex maps scraper, парсинг организаций, база организаций,
+  сбор телефонов и сайтов, выгрузка в excel, лидогенерация, b2b-контакты, антибот, прокси
 -->
 
 # 🗺️ Yandex Maps Scraper — парсер Яндекс.Карт на Python
